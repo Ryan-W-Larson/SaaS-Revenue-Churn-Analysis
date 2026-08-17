@@ -1,4 +1,4 @@
-# SaaS Revenue Churn Analysis: "CloudTask Pro"
+# SaaS Revenue & Churn Analysis: "CloudTask Pro"
 
 ## Overview:
 CloudTask Pro is a SaaS company that has grown from 0 to 600 customers since 2022. While revenue has been growing, the board has raised concerns about a high churn rate. The CFO wants to understand the monthly churn trends, which customer segments are most at risk, and what the company’s unit economics look like (MRR, customer acquisition cost vs. lifetime value).
