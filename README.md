@@ -7,6 +7,8 @@ CloudTask Pro is a SaaS company that has grown from 0 to 600 customers since 202
 3. What are the top 3 reasons customers churn, and do these reasons differ by plan type or company size?
 4. Calculate the average Customer Lifetime Value (CLV) by plan. Compare this to the Customer Acquisition Cost (CAC). Which plans are the most and least profitable?
 
+![CloudTask_Overview](CloudTask_Overview.png)
+
 **Initial Key Findings**
 - While CloudTask Pro has acquired its 600th total customer, 313 customers have left since 2022 leaving 287 active customers as of today. This results in an alarmingly high 52.17 overall churn rate. Essentially, for every new customer that is acquired, one departs.
 - Enterprise plan customers are seeing the lowest rate of departures at 22%.
@@ -19,6 +21,8 @@ CloudTask Pro is a SaaS company that has grown from 0 to 600 customers since 202
 - Enterprise retention appears relatively stable regardless of contract length, suggesting that product integration and business value are stronger retention drivers than contractual commitment.
 
 ## Churn
+![CloudTask_Churn](CloudTask_Churn.png)
+
 **Key Findings**
 - The data shows the top 3 reasons for customer churn are budget cuts, high pricing, and companies closing.
 - All three of the top reasons are especially impacting the Starter and Professional Plans.
@@ -36,6 +40,8 @@ CloudTask Pro is a SaaS company that has grown from 0 to 600 customers since 202
 - Highlight feature usage. As no plan over 50% feature usage has churned, firms that take advantage of CloudTask’s features and abilities are finding reason to stay. CloudTask may need to look at its onboarding process, and better educate customers on leveraging the software.
 
 ## Revenue & Unit Economics
+![CloudTask_Revenue](CloudTask_Revenue.png)
+
 **Key Findings**
 - The Enterprise Plan holds a Customer Lifetime Value (CLV) to Customer Acquisition Cost (CAC) ratio of 423:1, the highest CLV/CAC ratio of the current plan offerings
 - All plans are profitable, though the Professional and Starter Plans much less so with the most churn
@@ -57,6 +63,8 @@ CloudTask Pro is a SaaS company that has grown from 0 to 600 customers since 202
 - While the Starter Plan is clearly not as profitable as the other three plans, it remains true it is still the largest customer segment at 217 paid plans. Rollback spending on acquisition here, and focus on addressing the root cause of the extremely high level of churn to retain the customer base they do have. The byproduct of this will increase CLV and the profitability of CloudTask’s largest customer segment.
 
 ## Customer Health
+![CloudTask_Customer_Health](CloudTask_Customer_Health.png)
+
 **Key Findings**
 - Lower use of average feature usage percentage correlates with higher churn
 - Lower average NPS score correlates with higher churn
